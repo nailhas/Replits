@@ -15,6 +15,11 @@ public class A1_Print_triangle {
 			}
 			// for new line after printing each row
 			System.out.println();
+			/*Output for input 4:
+			 *
+			 **
+			 ***
+			 ****                             */
 		}
 	}
 }
