@@ -8,18 +8,24 @@ import java.util.Scanner;
 
 public class A3_Print_3_first_letters_of_each_array_element {
 	public static void main(String[] args) {
-		//Create scanner:
+		//1. Create scanner object:
 		Scanner input = new Scanner(System.in);
-		//Make input of 5 strings for the array arr:
+		//2. Arrange for input of 5 strings for the array arr:
 		String[] arr = new String[5];
 		for(int i=0; i<5; i++) {
 			arr[i]=input.nextLine();	
 		}
 		
-		//Use for each loop to print first 3 letters of each element of the array:
+		//3. Use for each loop to print first 3 letters of each element of the array:
 		int j=0;
 		for(String words : arr) {
 			System.out.println(words.substring(0, 3));			
-		}		
+		}	
+		
+		/*3. Or use regular for loop:
+		for(int i=0; i<arr.length; i++) {
+			System.out.println(arr[i].substring(0, 3));
+		}
+		 */
 	}
 }
