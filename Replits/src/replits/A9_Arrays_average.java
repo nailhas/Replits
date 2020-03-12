@@ -14,6 +14,6 @@ public class A9_Arrays_average {
 		}
 		
 		double avgTemp=total/temps.length;
-		System.out.println(avgTemp);//4.95		
+		System.out.println(avgTemp);//3.3		
 	}
 }
