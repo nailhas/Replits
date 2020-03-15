@@ -17,7 +17,6 @@ public class A10_Array_shortest_word {
 					elementLength=str[i].length();
 				}
 			}
-			System.out.println(str[shortestWord]);
-		    
+			System.out.println(str[shortestWord]);		    
 		  }
 }
