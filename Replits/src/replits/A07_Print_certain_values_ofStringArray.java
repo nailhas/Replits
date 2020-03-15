@@ -2,7 +2,7 @@ package replits;
 
 import java.util.Arrays;
 
-public class A7_Print_certain_values_ofStringArray {
+public class A07_Print_certain_values_ofStringArray {
 	/*Given a String array arr with the following elements:
 	["zero", "one", "two","three","four"]
 	Create another array and copy in it the words, which contain letter "e" in them.

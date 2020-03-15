@@ -1,7 +1,7 @@
 package replits;
 import java.util.Scanner;
 
-public class A1_Print_triangle {
+public class A01_Print_triangle {
 //Print a triangle of asterisks of size n using nested loop
 	
 	public static void main(String[] args) {

@@ -2,7 +2,7 @@ package replits;
 
 import java.util.Scanner;
 
-public class A2_Print_pyramid {
+public class A02_Print_pyramid {
 	
 	//Print a pyramid of asterisks of n size using nested loop
 	

@@ -2,7 +2,7 @@ package replits;
 
 import java.util.Scanner;
 
-public class A6_LongestString_inStringArray {
+public class A06_LongestString_inStringArray {
 //Print out the longest string in an array of 5 elements, when the longest string is only one.
 	
 	public static void main(String[] args) {

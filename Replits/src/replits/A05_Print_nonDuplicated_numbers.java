@@ -2,7 +2,7 @@ package replits;
 
 import java.util.Scanner;
 
-public class A5_Print_nonDuplicated_numbers {
+public class A05_Print_nonDuplicated_numbers {
 	//Print non-duplicated numbers of an array of 5 elements.
 	
 	public static void main(String[] args) {

@@ -6,7 +6,7 @@ prints: app
         ban     */
 import java.util.Scanner;
 
-public class A3_Print_3_first_letters_of_each_array_element {
+public class A03_Print_3_first_letters_of_each_array_element {
 	public static void main(String[] args) {
 		//1. Create scanner object:
 		Scanner input = new Scanner(System.in);

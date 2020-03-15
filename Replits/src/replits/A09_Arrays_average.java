@@ -2,7 +2,7 @@ package replits;
 
 import java.util.Scanner;
 
-public class A9_Arrays_average {
+public class A09_Arrays_average {
 	//Print average value of a double data type array
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
