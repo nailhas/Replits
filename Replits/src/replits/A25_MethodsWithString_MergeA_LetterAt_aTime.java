@@ -2,7 +2,7 @@ package replits;
 
 import java.util.Scanner;
 
-public class A25_Methods_withString_mergeThem {
+public class A25_MethodsWithString_MergeA_LetterAt_aTime {
 /*When gears merge and work together, one teeth from each one goes in order.
 Write a method, which returns the two strings merged, one letter at a time, starting with one.   
 	Please note strings can be of a different length.
